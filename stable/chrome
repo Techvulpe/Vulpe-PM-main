@@ -1,5 +1,5 @@
 install:
-        @echo "This install of chrome currently only works on Ubuntu/Vulpe-OS"
-        @read -p "Press enter to continue"
-        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-        dpkg -i google-chrome-stable_current_amd64.deb
+	@echo "This install of chrome currently only works on Ubuntu/Vulpe-OS"
+	@read -p "Press enter to continue"
+	wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+	dpkg -i google-chrome-stable_current_amd64.deb
