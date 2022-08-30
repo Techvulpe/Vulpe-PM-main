@@ -1,0 +1,3 @@
+
+install:
+	@echo "Your vulpe-pm installation works!"
